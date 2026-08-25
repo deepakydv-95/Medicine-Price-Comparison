@@ -34,7 +34,8 @@ The project collects medicine-related information, cleans and processes the data
 * **Data Cleaning**
 * **Data Preprocessing**
 * **Data Analysis**
-* **HTML/CSS**
+* **Streamlit**
+* **SerpAPI**
 
 📊 Project Insights
 
@@ -68,5 +69,5 @@ By combining **web scraping, Python, data cleaning, and data analysis**, the pro
 
 👨‍💻 Skills Demonstrated
 
-**Python | Pandas | NumPy | Web Scraping | Data Cleaning | Data Preprocessing | Data Analysis | HTML/CSS**
+**Python | Pandas | NumPy | Web Scraping | Data Cleaning | Data Preprocessing **
 
