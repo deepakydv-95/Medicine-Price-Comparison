@@ -59,6 +59,10 @@ Through this project, I gained practical experience in:
 * Building a practical data-driven application
 * Presenting processed data in a user-friendly format
 
+👨‍💻 Skills Demonstrated
+
+**Python | Pandas | NumPy | Web Scraping | Data Cleaning | Data Preprocessing **
+
 🚀 Project Outcome
 
 The **Medicine Price Comparison** project provides a simple approach to comparing medicine prices and identifying cost-effective options.
@@ -67,7 +71,5 @@ By combining **web scraping, Python, data cleaning, and data analysis**, the pro
 
 
 
-👨‍💻 Skills Demonstrated
 
-**Python | Pandas | NumPy | Web Scraping | Data Cleaning | Data Preprocessing **
 
