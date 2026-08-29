@@ -1,4 +1,4 @@
-💊 Medicine Price Comparison
+💊 Medicine Price 
 
 📌 Project Overview
 
