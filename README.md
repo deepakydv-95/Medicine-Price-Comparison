@@ -63,7 +63,7 @@ Through this project, I gained practical experience in:
 
 **Python | Pandas | NumPy | Web Scraping | Data Cleaning | Data Preprocessing **
 
-🚀 Project 
+🚀 Project Outcome
 
 The **Medicine Price Comparison** project provides a simple approach to comparing medicine prices and identifying cost-effective options.
 
