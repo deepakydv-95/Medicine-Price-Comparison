@@ -1,6 +1,6 @@
 💊 Medicine Price Comparison
 
-📌 Project 
+📌 Project Overview
 
 The **Medicine Price Comparison** project is a Python-based application designed to help users compare medicine prices from different online sources before making a purchase.
 
