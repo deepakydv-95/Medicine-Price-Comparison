@@ -5,7 +5,7 @@
 The **Medicine Price Comparison** project is a Python-based application designed to help users compare medicine prices from different online sources before making a purchase.
 
 The project collects medicine-related information, cleans and processes the data using Python, and presents the available options in a simple and easy-to-understand format. The goal is to reduce the time required to manually search multiple sources and help users identify more affordable medicine options.
-
+---
 🎯 Objectives
 
 * Compare medicine prices from different sources.
@@ -69,7 +69,9 @@ The **Medicine Price Comparison** project provides a simple approach to comparin
 
 By combining **web scraping, Python, data cleaning, and data analysis**, the project demonstrates how automation and data-driven techniques can simplify everyday tasks and reduce the effort required to compare information from multiple sources.
 
+## 👨‍💻 Author
 
+**Deepak Yadav**
 
 
 
